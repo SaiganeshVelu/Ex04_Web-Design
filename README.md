@@ -26,9 +26,44 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
+<html>
+
+
+<body>
+<h1>Vermicompost</h1>
+<img src="https://m.media-amazon.com/images/I/71CJ9-6QdZL._SX466_.jpg" width="200" height="200">
+<br>
+<br>
+<h1>Sprinkler Irrigation</h1>
+
+<img src="https://kj1bcdn.b-cdn.net/media/31740/sprinkler.jpg"  width="200" height="200">
+<br>
+<br>
+<h1>Drip Irrigation</h1>
+
+<img src="https://s.hdnux.com/photos/01/26/61/32/22746795/4/rawImage.jpg"
+width="200" height="200">
+<br>
+<br>
+<br>
+<h1>Rice bran oil extraction</h1>
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0926669017302479-fx1.jpg"
+width="200" height="200"></a>
+<br>
+<br>
+<br>
+<h1>Soil profile</h1>
+
+<img src="https://www.sciencefacts.net/wp-content/uploads/2020/12/Soil-Horizons-Layers-Diagram-Chart.jpg"
+width="200" height="200"></a>
+</body>
+</html>
+~~~
 
 
 ## OUTPUT
+[ex-4.pdf](https://github.com/SaiganeshVelu/Ex04_Web-Design/files/11534742/ex-4.pdf)
 
 
 ## RESULT
