@@ -61,10 +61,10 @@ width="200" height="200"></a>
 </html>
 ~~~
 
+## OUTPUT:
+![1](https://github.com/SaiganeshVelu/Ex04_Web-Design/assets/127816325/11d70cf6-1cd6-4b57-9d2e-23326220bf33)
 
-## OUTPUT
-[ex-4.pdf](https://github.com/SaiganeshVelu/Ex04_Web-Design/files/11534742/ex-4.pdf)
-
+![2](https://github.com/SaiganeshVelu/Ex04_Web-Design/assets/127816325/b32acaf4-9174-49b1-a5db-9e5ec44ab54e)
 
 ## RESULT
  Images as hyperlinks is implemented successfully.
